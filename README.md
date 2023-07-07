@@ -11,11 +11,19 @@ LUCA is a simple **register** where janitors and custodians can sign in the **en
 ## Screenshots
 Overall rooms situation:
 
+![egnerico](https://github.com/meliolanna/LUCA/assets/138586939/48c5e1b7-0425-4855-bcd2-7babc1dcdec9)
+
 Room entrance display:
+
+![entrata2](https://github.com/meliolanna/LUCA/assets/138586939/70c05b46-3a83-483f-a79f-f50aad09a476)
 
 Room exit display:
 
+![uscita](https://github.com/meliolanna/LUCA/assets/138586939/3382fc27-bec1-488c-b3e7-07403ad22e37)
+
 Booking display:
+
+![prenotazione](https://github.com/meliolanna/LUCA/assets/138586939/fa662d5a-08ed-4220-aad4-007465f3b776)
 
 ## Requirements
 It only works on Java 17+ .
