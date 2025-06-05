@@ -1,5 +1,6 @@
 # LUCA
 An entry register for music conservatory rooms.
+(OOP project for Computer Engineering at UNIMORE, a.y. 22/23)
 
 ## Feautures
 LUCA is a simple **register** where janitors and custodians can sign in the **entrance** and the **exit** of students in conservatory study-rooms.
